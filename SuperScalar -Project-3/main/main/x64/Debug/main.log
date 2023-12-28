@@ -1,0 +1,7 @@
+﻿  main.cc
+D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\main.cc(58,18): warning C4101: 'dest': unreferenced local variable
+D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\main.cc(58,9): warning C4101: 'op_type': unreferenced local variable
+D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\main.cc(58,30): warning C4101: 'src2': unreferenced local variable
+D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\main.cc(59,14): warning C4101: 'pc': unreferenced local variable
+D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\main.cc(58,24): warning C4101: 'src1': unreferenced local variable
+  main.vcxproj -> D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\x64\Debug\main.exe

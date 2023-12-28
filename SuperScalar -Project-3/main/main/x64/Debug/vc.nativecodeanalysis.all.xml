@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\</FILEPATH>
+      <FILENAME>sim_proc.h</FILENAME>
+      <LINE>71</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'ROBEntry::dyn' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>ROBEntry::{ctor}</FUNCTION>
+    <DECORATED>??0ROBEntry@@QEAA@XZ</DECORATED>
+    <FUNCLINE>71</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>ROBEntry::dyn</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\</FILEPATH>
+      <FILENAME>sim_proc.h</FILENAME>
+      <LINE>87</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'IQEntry::instruction' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>IQEntry::{ctor}</FUNCTION>
+    <DECORATED>??0IQEntry@@QEAA@XZ</DECORATED>
+    <FUNCLINE>87</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>IQEntry::instruction</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\</FILEPATH>
+      <FILENAME>fetch.cc</FILENAME>
+      <LINE>56</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'sscanf'.</DESCRIPTION>
+    <FUNCTION>fetch</FUNCTION>
+    <DECORATED>?fetch@@YAIXZ</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

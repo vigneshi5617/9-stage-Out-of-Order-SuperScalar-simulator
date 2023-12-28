@@ -1,0 +1,10 @@
+D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\decode.cc;D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\x64\Debug\decode.obj
+D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\dispatch.cc;D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\x64\Debug\dispatch.obj
+D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\execute.cc;D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\x64\Debug\execute.obj
+D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\fetch.cc;D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\x64\Debug\fetch.obj
+D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\issue.cc;D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\x64\Debug\issue.obj
+D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\main.cc;D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\x64\Debug\main.obj
+D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\regRead.cc;D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\x64\Debug\regRead.obj
+D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\rename.cc;D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\x64\Debug\rename.obj
+D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\retire.cc;D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\x64\Debug\retire.obj
+D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\writeback.cc;D:\NC State\ECE 563\project-3-SuperScalar\SuperScalar -Project-3\main\main\x64\Debug\writeback.obj
